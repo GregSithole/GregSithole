@@ -1,7 +1,5 @@
 # Hi, I'm [Greg Sithole](https://gregsithole.com) 👋
 
----
-
 ![version :0.0.1](https://img.shields.io/badge/version-0.0.1-informational) &nbsp;
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gregsithole) &nbsp;
 [![GitHub GregSithole](https://img.shields.io/github/followers/GregSithole?label=follow&style=social)](https://github.com/GregSithole) &nbsp;
@@ -12,10 +10,16 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 💻 I’m currently a intermediate full-stack developer at [Entrostat](https://entrostat.com)
-- 🌱 I’m currently learning more additional topics on Node.JS with "[NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide/)"
+- 🌱 I’m currently learning/going through [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide/)
 - 👯 I’m looking to collaborate on any Javascript, HTML, CSS projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love all things Marvel and DC Comics
+
+---
+
+### ⭐ &nbsp; Github Stats:
+
+[![GregSithole's GitHub stats](https://github-readme-stats.vercel.app/api?username=GregSithole&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -47,11 +51,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) &nbsp;
 ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) &nbsp;
 ![MySQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) &nbsp;
-
----
-### ⭐ &nbsp; Github Stats:
-
-[![GregSithole's GitHub stats](https://github-readme-stats.vercel.app/api?username=GregSithole&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### 📫 &nbsp; How to reach me:
