@@ -1,10 +1,9 @@
 # Hi, I'm [Greg Sithole](https://gregsithole.com) 👋
 
-![version :0.0.1](https://img.shields.io/badge/version-0.0.1-informational) &nbsp;
+![version :0.0.1](https://img.shields.io/github/v/release/GregSithole/GregSithole) &nbsp;
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gregsithole) &nbsp;
 [![GitHub GregSithole](https://img.shields.io/github/followers/GregSithole?label=follow&style=social)](https://github.com/GregSithole) &nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-
 
 
 ### 👨🏻‍💻 &nbsp;About Me
