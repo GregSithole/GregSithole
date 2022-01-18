@@ -8,8 +8,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 💻 I’m currently a intermediate full-stack developer at [Entrostat](https://entrostat.com)
-- 🌱 I’m currently learning/going through [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide/)
+- 💻 I’m currently a intermediate full-stack developer at [Kurtosys Systems](https://www.kurtosys.com/)
+- 🌱 I’m currently learning/going through [
+  React: Getting Started](https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents)
 - 👯 I’m looking to collaborate on any Javascript, HTML, CSS projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love all things Marvel and DC Comics
