@@ -8,9 +8,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 💻 I’m currently a intermediate full-stack developer at [Kurtosys Systems](https://www.kurtosys.com/)
-- 🌱 I’m currently learning/going through [
-  React: Getting Started](https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents)
+- 💻 I’m currently a software engineer at [Kurtosys Systems](https://www.kurtosys.com/)
+- 🌱 I’m currently learning/going through [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 - 👯 I’m looking to collaborate on any Javascript, HTML, CSS projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love all things Marvel and DC Comics
@@ -42,6 +41,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) &nbsp;
 ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white) &nbsp;
 ![Vue.JS](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=white) &nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=2361DAFB) &nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) &nbsp;
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) &nbsp;
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) &nbsp;
@@ -69,10 +69,6 @@
 ![SublimeText](https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat&logo=sublime-text&logoColor=important) &nbsp;
 ![PHPStorm](http://img.shields.io/badge/-PHPStorm-181717?style=flat&logo=phpstorm&logoColor=white) &nbsp;
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white) &nbsp;
-
-
-
-
 
 ---
 ### 📫 &nbsp; How to reach me:
