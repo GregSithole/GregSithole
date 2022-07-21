@@ -1,10 +1,8 @@
-# Hi, I'm [Greg Sithole](https://gregsithole.com) 👋
+![Header](./assets/github-header-image.png)
 
 ![version :0.0.1](https://img.shields.io/github/v/release/GregSithole/GregSithole) &nbsp;
-![visitors](https://komarev.com/ghpvc/?username=GregSithole) &nbsp;
+![visitors](https://visitor-badge.deta.dev/badge?page_id=GregSithole.GregSithole) &nbsp;
 [![GitHub GregSithole](https://img.shields.io/github/followers/GregSithole?label=follow&style=social)](https://github.com/GregSithole) &nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
-
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -19,6 +17,8 @@
 ### ⭐ &nbsp; Github Stats:
 
 [![GregSithole's GitHub stats](https://github-readme-stats.vercel.app/api?username=GregSithole&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GregSithole&theme=onedark)](https://git.io/streak-stats)
+
 
 ---
 
