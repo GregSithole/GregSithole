@@ -1,7 +1,7 @@
 ![Header](./assets/github-header-image.png)
 
 ![version :0.0.1](https://img.shields.io/github/v/release/GregSithole/GregSithole) &nbsp;
-![visitors](https://visitor-badge.deta.dev/badge?page_id=GregSithole.GregSithole) &nbsp;
+![visitors](https://api.visitorbadge.io/api/visitors?path=GregSithole&countColor=%23697689&style=flat) &nbsp;
 [![GitHub GregSithole](https://img.shields.io/github/followers/GregSithole?label=follow&style=social)](https://github.com/GregSithole) &nbsp;
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -33,6 +33,7 @@
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white) &nbsp;
 #### Mobile Frameworks
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white) &nbsp;
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) &nbsp;
 #### Frameworks
 ![Node.JS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) &nbsp;
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white) &nbsp;
@@ -62,12 +63,13 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) &nbsp;
 ![PopOS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat&logo=Pop!_OS&logoColor=white) &nbsp;
 ![OhMyZSH](https://img.shields.io/badge/oh_my_zsh-1A2C34?style=flat&logo=ohmyzsh&logoColor=white) &nbsp;
+![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=flat&logo=windows%20terminal&logoColor=white) &nbsp;
 
 
 #### IDEs
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) &nbsp;
 ![SublimeText](https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat&logo=sublime-text&logoColor=important) &nbsp;
-![PHPStorm](http://img.shields.io/badge/-PHPStorm-181717?style=flat&logo=phpstorm&logoColor=white) &nbsp;
+![PHPStorm](https://img.shields.io/badge/-PHPStorm-181717?style=flat&logo=phpstorm&logoColor=white) &nbsp;
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white) &nbsp;
 
 ---
