@@ -42,6 +42,9 @@
 	<a href="https://github.com/GregSithole/wallhaven-cli" style="margin: 0 5px;">
 	<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=GregSithole&repo=wallhaven-cli&theme=onedark" />
 	</a>
+	<a href="https://github.com/GregSithole/gym-website" style="margin: 0 5px;">
+	<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=GregSithole&repo=gym-website&theme=onedark" />
+	</a>
 </div>
 <div style="display: flex; align-items: center; justify-content: center">
 	<a href="https://github.com/GregSithole/react-native-jobs" style="margin: 0 5px;">
