@@ -33,7 +33,7 @@
 
 ---
 
-### ⭐ &nbsp; Featured Repositories:
+### 📍 &nbsp; Featured Repositories:
 
 <div style="display: flex; align-items: center; justify-content: center">
 	<a href="https://github.com/GregSithole/crypto-app" style="margin: 0 5px;">
