@@ -16,18 +16,39 @@
 
 ### ⭐ &nbsp; Github Stats:
 
-<div style="text-align: center">
+<div style="display: flex; align-items: center; justify-content: center">
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-	<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GregSithole&theme=onedark" />
+	<img height="200" style="margin: 0 5px;"  src="https://github-readme-stats.vercel.app/api?username=GregSithole&theme=onedark" />
 	</a>
 	<a href="https://github.com/anuraghazra/convoychat">
-	<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GregSithole&theme=onedark&langs_count=3" />
+	<img height="200" style="margin: 0 5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GregSithole&theme=onedark&langs_count=3" />
 	</a>
 </div>
 
-<div style="text-align: center; margin-top: 20px; margin-bottom: 20px">
+<div style="display: flex; align-items: center; justify-content: center; margin-top: 20px; margin-bottom: 20px">
 	<a href="https://git.io/streak-stats">
-	<img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GregSithole&theme=onedark" />
+	<img height=200 style="margin: 0 5px;" src="https://github-readme-streak-stats.herokuapp.com/?user=GregSithole&theme=onedark" />
+	</a>
+</div>
+
+---
+
+### ⭐ &nbsp; Featured Repositories:
+
+<div style="display: flex; align-items: center; justify-content: center">
+	<a href="https://github.com/GregSithole/crypto-app" style="margin: 0 5px;">
+	<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=GregSithole&repo=crypto-app&theme=onedark" />
+	</a>
+	<a href="https://github.com/GregSithole/wallhaven-cli" style="margin: 0 5px;">
+	<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=GregSithole&repo=wallhaven-cli&theme=onedark" />
+	</a>
+</div>
+<div style="display: flex; align-items: center; justify-content: center">
+	<a href="https://github.com/GregSithole/react-native-jobs" style="margin: 0 5px;">
+	<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=GregSithole&repo=react-native-jobs&theme=onedark" />
+	</a>
+	<a href="https://github.com/GregSithole/travel-advisor" style="margin: 0 5px;">
+	<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=GregSithole&repo=travel-advisor&theme=onedark" />
 	</a>
 </div>
 
