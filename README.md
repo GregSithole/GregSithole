@@ -25,11 +25,11 @@
 	</a>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center; margin-top: 20px; margin-bottom: 20px">
+<p align="center" style="margin-top: 20px; margin-bottom: 20px">
 	<a href="https://git.io/streak-stats">
-	<img height=200 style="margin: 0 5px;" src="https://github-readme-streak-stats.herokuapp.com/?user=GregSithole&theme=onedark" />
+		<img height=200 style="margin: 0 5px;" src="https://github-readme-streak-stats.herokuapp.com/?user=GregSithole&theme=onedark" />
 	</a>
-</div>
+</p>
 
 ---
 
