@@ -31,6 +31,9 @@
 	</a>
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 
 ### 📍 &nbsp; Featured Repositories:
@@ -54,6 +57,7 @@
 	<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=GregSithole&repo=gym-website&theme=onedark" />
 	</a>
 </p>
+
 
 ---
 
