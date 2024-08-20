@@ -14,9 +14,20 @@
 
 ---
 
+### 📫 &nbsp; How to reach me:
+
+<a href="https://facebook.com/Greg.Sithole"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> &nbsp;
+<a href="https://twitter.com/GregSithole"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/cikrosis"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/gregsithole/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:gregsithole@hotmail.co.za"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a> &nbsp;
+
+---
+
 ### 🛠 &nbsp;Tech Stack
 
 #### Programming languages
+
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white) &nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) &nbsp;
@@ -25,11 +36,13 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) &nbsp;
 
 #### Mobile Frameworks
+
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)&nbsp;
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white) &nbsp;
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) &nbsp;
 
 #### Frameworks & Libraries
+
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) &nbsp;
 ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white) &nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) &nbsp;
@@ -41,6 +54,7 @@
 ![Lodash](https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white) &nbsp;
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) &nbsp;
 ![Nest.js](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) &nbsp;
+![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) &nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) &nbsp;
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) &nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=2361DAFB) &nbsp;
@@ -53,6 +67,7 @@
 ![Vue.JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=white) &nbsp;
 
 #### Databases
+
 ![DBeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white) &nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) &nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
@@ -60,6 +75,7 @@
 ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) &nbsp;
 
 #### DevOps & Tools
+
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) &nbsp;
 ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white) &nbsp;
 ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white) &nbsp;
@@ -74,6 +90,7 @@
 ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) &nbsp;
 
 #### IDEs
+
 ![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white) &nbsp;
 ![CodeSandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white) &nbsp;
 ![SublimeText](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) &nbsp;
@@ -82,6 +99,7 @@
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white) &nbsp;
 
 #### Education
+
 ![Pluralsignt](https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white) &nbsp;
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) &nbsp;
 
@@ -104,7 +122,7 @@
 	</a>
 </p>
 
---- 
+---
 
 ### 📍 &nbsp; Featured Repositories:
 
@@ -128,78 +146,66 @@
 	</a>
 </p>
 
-
 ---
 
 ### ⭐ &nbsp; WakaTime Stats:
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C675%20hrs%2015%20mins-blue)
 
-**I'm a Night 🦉** 
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                355 commits         ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
-🌆 Daytime                151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-🌃 Evening                594 commits         ███████████░░░░░░░░░░░░░░   42.28 % 
-🌙 Night                  305 commits         █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
+🌞 Morning                355 commits         ██████░░░░░░░░░░░░░░░░░░░   25.27 %
+🌆 Daytime                151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 %
+🌃 Evening                594 commits         ███████████░░░░░░░░░░░░░░   42.28 %
+🌙 Night                  305 commits         █████░░░░░░░░░░░░░░░░░░░░   21.71 %
 ```
-📅 **I'm Most Productive on Tuesday** 
+
+📅 **I'm Most Productive on Tuesday**
 
 ```text
-Monday                   177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Tuesday                  326 commits         ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-Wednesday                272 commits         █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-Thursday                 176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Friday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Saturday                 122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Sunday                   234 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+Monday                   177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
+Tuesday                  326 commits         ██████░░░░░░░░░░░░░░░░░░░   23.20 %
+Wednesday                272 commits         █████░░░░░░░░░░░░░░░░░░░░   19.36 %
+Thursday                 176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
+Friday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
+Saturday                 122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 %
+Sunday                   234 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Africa/Johannesburg
 
-💬 Programming Languages: 
-Other                    35 hrs 18 mins      █████████████████████████   98.18 % 
-TypeScript               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-HTML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+💬 Programming Languages:
+Other                    35 hrs 18 mins      █████████████████████████   98.18 %
+TypeScript               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+HTML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 
-🔥 Editors: 
-Chrome                   35 hrs 16 mins      █████████████████████████   98.10 % 
-VS Code                  40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+🔥 Editors:
+Chrome                   35 hrs 16 mins      █████████████████████████   98.10 %
+VS Code                  40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 
-💻 Operating System: 
-Windows                  21 hrs 59 mins      ███████████████░░░░░░░░░░   61.18 % 
-Mac                      13 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   38.82 % 
+💻 Operating System:
+Windows                  21 hrs 59 mins      ███████████████░░░░░░░░░░   61.18 %
+Mac                      13 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   38.82 %
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in TypeScript**
 
 ```text
-TypeScript               12 repos            █████████░░░░░░░░░░░░░░░░   37.50 % 
-JavaScript               11 repos            █████████░░░░░░░░░░░░░░░░   34.38 % 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-CSS                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+TypeScript               12 repos            █████████░░░░░░░░░░░░░░░░   37.50 %
+JavaScript               11 repos            █████████░░░░░░░░░░░░░░░░   34.38 %
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
+CSS                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
 ```
 
+Last Updated on 16/08/2024 04:37:46 UTC
 
-
-
- Last Updated on 16/08/2024 04:37:46 UTC
 <!--END_SECTION:waka-->
-
----
-
-### 📫 &nbsp; How to reach me:
-
-<a href="https://facebook.com/Greg.Sithole"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> &nbsp;
-<a href="https://twitter.com/GregSithole"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> &nbsp;
-<a href="https://instagram.com/cikrosis"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> &nbsp;
-<a href="https://www.linkedin.com/in/greg-sithole-b6350558/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:gregsithole@hotmail.co.za"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a> &nbsp;
