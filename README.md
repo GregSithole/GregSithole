@@ -212,4 +212,6 @@ Last Updated on 22/03/2025 04:42:42 UTC
 
 ### 🎵 &nbsp; Apple Music:
 
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001048.d21464be27374041850a04f3e5b6c194.1538)](https://github.com/rayriffy/apple-music-github-profile)
+<a href="https://github.com/rayriffy/apple-music-github-profile">
+  <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001048.d21464be27374041850a04f3e5b6c194.1538" height="270px">
+</a>
