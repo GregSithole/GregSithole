@@ -151,7 +151,7 @@
 ### ⭐ &nbsp; WakaTime Stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C163%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C165%20hrs%2050%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -180,13 +180,13 @@ Sunday                   261 commits         ████░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-Other                    38 hrs 10 mins      █████████████████████████   100.00 % 
+Other                    36 hrs 7 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   38 hrs 10 mins      █████████████████████████   100.00 % 
+Chrome                   36 hrs 7 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  38 hrs 10 mins      █████████████████████████   100.00 % 
+Windows                  36 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -202,7 +202,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/04/2025 04:45:09 UTC
+ Last Updated on 29/04/2025 04:42:23 UTC
 <!--END_SECTION:waka-->
 
 ### 🎵 &nbsp; Apple Music:
