@@ -212,6 +212,4 @@ Last Updated on 22/03/2025 04:42:42 UTC
 
 ### 🎵 &nbsp; Apple Music:
 
-<a href="https://github.com/rayriffy/apple-music-github-profile">
-  <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001048.d21464be27374041850a04f3e5b6c194.1538" height="400">
-</a>
+[https://github-profile-apple-music.web.app/api/v1/users/zaitr6X8YF8WtXDMggWg/recent/played/tracks?template=template_1_1](https://github-profile-apple-music.web.app/api/v1/users/zaitr6X8YF8WtXDMggWg/recent/played/tracks?template=template_1_1)
