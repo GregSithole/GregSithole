@@ -124,30 +124,6 @@
 
 ---
 
-### 📍 &nbsp; Featured Repositories:
-
-<p align="center">
-	<a href="https://github.com/GregSithole/crypto-app" style="margin: 0 5px;">
-	<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=GregSithole&repo=crypto-app&theme=onedark" />
-	</a>
-	<a href="https://github.com/GregSithole/wallhaven-cli" style="margin: 0 5px;">
-	<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=GregSithole&repo=wallhaven-cli&theme=onedark" />
-	</a>
-</p>
-<p align="center" >
-	<a href="https://github.com/GregSithole/react-native-jobs" style="margin: 0 5px;">
-	<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=GregSithole&repo=react-native-jobs&theme=onedark" />
-	</a>
-	<a href="https://github.com/GregSithole/travel-advisor" style="margin: 0 5px;">
-	<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=GregSithole&repo=travel-advisor&theme=onedark" />
-	</a>
-	<a href="https://github.com/GregSithole/gym-website" style="margin: 0 5px;">
-	<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=GregSithole&repo=gym-website&theme=onedark" />
-	</a>
-</p>
-
----
-
 ### 🎵 &nbsp; Apple Music:
 
 <a href="https://github-profile-apple-music.web.app/api/v1/users/zaitr6X8YF8WtXDMggWg/recent/played/tracks?template=template_1_3">
