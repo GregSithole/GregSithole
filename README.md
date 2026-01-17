@@ -107,9 +107,16 @@
 
 ### ⭐ &nbsp; Github Stats:
 
-![Stats](./profile/stats.svg)
+<p align="center">
+  <img src="./profile/stats.svg" alt="Stats" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
 
-![Top Languages](./profile/top-langs.svg)
+<p align="center" style="margin-top: 20px; margin-bottom: 20px">
+	<a href="https://git.io/streak-stats">
+		<img height=200 style="margin: 0 5px;" src="https://github-readme-streak-stats.herokuapp.com/?user=GregSithole&theme=onedark" />
+	</a>
+</p>
 
 ---
 
