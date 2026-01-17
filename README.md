@@ -108,8 +108,8 @@
 ### ⭐ &nbsp; Github Stats:
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="Stats" />
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
+  <img src="./assets/stats.svg" alt="Stats" />
+  <img src="./assets/top-langs.svg" alt="Top Languages" />
 </p>
 
 <p align="center" style="margin-top: 20px; margin-bottom: 20px">
