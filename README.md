@@ -123,11 +123,3 @@
     />
   </a>
 </p>
-
----
-
-### 🎵 &nbsp; Apple Music:
-
-<a href="https://github-profile-apple-music.web.app/api/v1/users/zaitr6X8YF8WtXDMggWg/recent/played/tracks?template=template_1_3">
-  <img src="https://github-profile-apple-music.web.app/api/v1/users/zaitr6X8YF8WtXDMggWg/recent/played/tracks?template=template_1_3" width="400">
-</a>
