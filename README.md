@@ -108,14 +108,15 @@
 ### ⭐ &nbsp; Github Stats:
 
 <p align="center">
-  <img src="./assets/stats.svg" alt="Stats" />
   <img src="./assets/top-langs.svg" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="./assets/stats.svg" alt="Stats" />
+</p>
+
 <p align="center" style="margin-top: 20px; margin-bottom: 20px">
-	<a href="https://git.io/streak-stats">
-		<img height=200 style="margin: 0 5px;" src="https://github-readme-streak-stats.herokuapp.com/?user=GregSithole&theme=onedark" />
-	</a>
+	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GregSithole&theme=onedark" alt="GitHub Streak" /></a>
 </p>
 
 ---
