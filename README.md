@@ -115,8 +115,13 @@
   <img src="./assets/stats.svg" alt="Stats" />
 </p>
 
-<p align="center" style="margin-top: 20px; margin-bottom: 20px">
-	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GregSithole&theme=onedark" alt="GitHub Streak" /></a>
+<p align="center">
+  <a href="https://github.com/pranesh-2005/github-readme-stats-fast">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api/streak?username=GregSithole&theme=onedark"
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
 
 ---
