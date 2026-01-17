@@ -28,7 +28,7 @@
 
 #### Programming languages
 
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white) &nbsp;
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white) &nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) &nbsp;
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) &nbsp;
@@ -107,20 +107,9 @@
 
 ### ⭐ &nbsp; Github Stats:
 
-<p align="center">
-	<a href="https://github.com/anuraghazra/github-readme-stats">
-	<img height="200" style="margin: 0 5px;"  src="https://github-readme-stats.vercel.app/api?username=GregSithole&theme=onedark" />
-	</a>
-	<a href="https://github.com/anuraghazra/convoychat">
-	<img height="200" style="margin: 0 5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GregSithole&theme=onedark&langs_count=3" />
-	</a>
-</p>
-
-<p align="center" style="margin-top: 20px; margin-bottom: 20px">
-	<a href="https://git.io/streak-stats">
-		<img height=200 style="margin: 0 5px;" src="https://github-readme-streak-stats.herokuapp.com/?user=GregSithole&theme=onedark" />
-	</a>
-</p>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 ---
 
