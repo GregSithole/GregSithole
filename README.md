@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 💻 I’m currently a software engineer at [Kurtosys Systems](https://www.kurtosys.com/)
+- 💻 I’m currently a software engineer at [KIBO Computer Services](https://kibocomputers.co.za/)
 - 🌱 I’m currently learning/going through [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 - 👯 I’m looking to collaborate on any Javascript, HTML, CSS projects
 - 😄 Pronouns: He/Him
